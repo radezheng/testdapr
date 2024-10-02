@@ -1,0 +1,6 @@
+#dotnet dapr project
+bin/
+obj/
+
+.env
+
